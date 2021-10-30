@@ -2,7 +2,7 @@
 
 1.The code is used to calculate the GPS receiver’s position.
 
-2.There are two matrixes using as the input of the code. The details are shown as follows.
+2.There are two data files using as the input of the code. The details are shown as follows.
 
 Matrix A:
 
